@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+*{
+	margin:0;
+}
+img{
+	max-width: 100%;
+	margin-bottom: 10px;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	color:#222
+}
+
+.Helpsection {
+   
+background-color: #55ebc885;
+}
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+    padding: 50px 50px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+.banner{
+
+max-width: 50%;
+}
+.content {
+    max-width: 50%;
+    /* background: aqua; */
+    padding: 20px;
+}
+.content h5{
+	font-size: 15px
+}
+.content h2{
+	line-height: 1.1;
+	font-size: 28px;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+}
+.content p{
+	font-size: 16px;
+	font-weight: 500;
+}
+.content a{
+	background: #ff68d8;
+	padding: 
+	13px 13px;
+	display: 
+	inline-block;
+	font-size: 15px;
+	text-decoration: none;
+	border-radius: 10px;
+	margin-top: 10px;
+	text-align: center;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+ 
+ .feasuresection{
+ 	padding: 30px 0;
+ }
+
+ .feasure{
+    padding: 8px;
+    width: 33.33%;
+}
+ .feasure div{
+    background: cyan;
+    padding: 18px 22px;
+    border-radius: 20px;
+    min-height: 154px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ .feasure img{
+ 	
+width: 39px;
+ }
+ .feasure h2{}
+ .feasure p{
+    font-size: 14px;
+}
+.Aboutus{
+	background: #b4ff00a6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
